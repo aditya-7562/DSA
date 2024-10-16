@@ -18,7 +18,7 @@ public class calorie {
         System.out.println("What's your dumbell weight?");
         int dweight = sc.nextInt();
 
-        System.out.println("How many minutes did you dumbells?");
+        System.out.println("How many minutes did you do dumbells?");
         int time = sc.nextInt();
 
         System.out.println("Did to take protein shake?");
