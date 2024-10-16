@@ -32,5 +32,7 @@ public class calorie {
         int total = benchpress * 3 + pushup * 1 + (dweight/5 * time * 2) - (tspoon * 5);
 
         System.out.println("Total calories burn: " + total);
+
+        sc.close();
     }
 }
